@@ -14,9 +14,9 @@ api-approvers:
 tracking-link:
   - "https://docs.google.com/document/d/16E0dLFLbLBTe0J4fUd_55I-8bJc9t22BwsdWqFuutaQ/edit"
 presentation-links:
-  - [TRT team presentation recording part 1](https://drive.google.com/file/d/1JFe4Lu6pIW-LVCulaVhq8WjnLzz62SZt/view?usp=sharing)
-  - [TRT team presentation recording part 2](https://drive.google.com/file/d/1dREKNv_VqGOiKAnRb1QDUPxteVdZVkjh/view?usp=sharing)
-  - [TRT team presentation slides](https://docs.google.com/presentation/d/1YFRNeJm-bNiXZYZubUVgFypOhdbryZtIoD6lYWHI6-0/edit?usp=sharing)
+  - "https://drive.google.com/file/d/1JFe4Lu6pIW-LVCulaVhq8WjnLzz62SZt/view?usp=sharing"
+  - "https://drive.google.com/file/d/1dREKNv_VqGOiKAnRb1QDUPxteVdZVkjh/view?usp=sharing"
+  - "https://docs.google.com/presentation/d/1YFRNeJm-bNiXZYZubUVgFypOhdbryZtIoD6lYWHI6-0/edit?usp=sharing"
 creation-date: 2021-08-16
 last-updated: 2022-05-31
 ---
